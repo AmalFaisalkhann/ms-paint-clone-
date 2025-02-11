@@ -1,1 +1,2 @@
-# ms-paint-clone-
+# ms-paint-clone
+This MS Paint Clone is a graphical drawing application developed using the C programming language. It allows users to draw various shapes, numbers, and alphabets with customizable border and inner colors. The project is structured into three main files: data, interface, and brain, each responsible for different functionalities. The data module manages the internal storage of shapes and colors, the interface module handles user interaction and display, and the brain module processes user inputs and executes drawing operations.
